@@ -1,0 +1,7 @@
+README <AndyBot>
+
+HANDIN:
+
+DESIGN CHOICES: For this project, I used the four methods of the AndyBot class to move the robot around and eventually get to my destination. In order to finish getting AndyBot to the final destination, I had to get past the roadblock which required a password. This is where nesting comes in. Nesting is when you have one method nested inside another method or in other words, calling a method within a call. This is seen when I had to solve for the roadblock. The this.getHint method was nested inside the this.solveRoadBlock method.
+
+KNOWN BUGS:N/A
